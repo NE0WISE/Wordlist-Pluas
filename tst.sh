@@ -3,7 +3,7 @@
 
 start(){
 	clear
-	echo -e "\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mCode: \e[37mNeowise \n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mİnstagram: \e[37m_serhatc\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mYoutube: \e[37mSerhat Türk\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mGitHub: \e[37mNE0WISE\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  Tool Name: Wordlist-Pluas\n\n\n"
+	echo -e "\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mCode: \e[37mNeowise \n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mİnstagram: \e[37mAnonim\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mYoutube: \e[37mSerhat Türk\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  \e[31mGitHub: \e[37mNE0WISE\n\e[33m▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄  Tool Name: Wordlist-Pluas\n\n\n"
 
 
 
